@@ -10,11 +10,11 @@
         listening_port : 5999
         pid_file: "{{ btsync_home }}/.sync/btsync.pid"
         storage_path: "{{ btsync_home }}/.sync"
-        # webui:
-        #   login: "api"
-        #   password: "api"
-        #   api_key: "YOUR_API_KEY"
-        #   listen: "0.0.0.0:8888"
+        webui:
+          login: "api"
+          password: "api"
+          api_key: "YOUR_API_KEY"
+          listen: "0.0.0.0:8888"
         # shared_folders:
         #   - dir: "{{ btsync_home }}/FOLDER_NAME"
         #     secret: YOUR_SECRET_GOES_HEER
