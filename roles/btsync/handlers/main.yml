@@ -1,0 +1,6 @@
+---
+- name: reload ufw
+  ufw: state=reloaded
+
+- name: restart btsync
+  service: name=btsync state=restarted
