@@ -12,5 +12,8 @@ How to use
 
 Few minutes later you will have btsync available on `http://192.168.33.15:8888`
 
+Links
+==============
+Get your API key for BTSync http://www.getsync.com/api
 
 
