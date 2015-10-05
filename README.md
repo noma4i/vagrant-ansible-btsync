@@ -2,7 +2,7 @@ vagrant-ansible-btsync
 ==============
 
 Ansible playbook and Vagrantfile to perform quick setup of VM with btsync onboard.
-Mostly usefull for BTSync API debugging.
+Mostly useful for BTSync API debugging.
 
 How to use
 ==============
